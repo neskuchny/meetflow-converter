@@ -36,9 +36,9 @@
 
 | Платформа | Файл | |
 |-----------|------|---|
-| 🪟 **Windows 10/11** | Установщик `.exe` | [**⬇ Скачать**](../../releases/latest/download/MeetFlow.Converter.Setup.0.2.0.exe) |
-| 🍎 **macOS** | Образ `.dmg` | [**⬇ Скачать**](../../releases/latest/download/MeetFlow.Converter-0.2.0.dmg) |
-| 🐧 **Linux** | `.AppImage` (запускается без установки) | [**⬇ Скачать**](../../releases/latest/download/MeetFlow.Converter-0.2.0.AppImage) |
+| 🪟 **Windows 10/11** | Установщик `.exe` | [**⬇ Скачать**](https://github.com/neskuchny/meetflow-converter/releases/download/v0.2.0/MeetFlow.Converter.Setup.0.2.0.exe) |
+| 🍎 **macOS** | Образ `.dmg` | [** Ожидается**](../../releases/latest/download/MeetFlow.Converter-0.2.0.dmg) |
+| 🐧 **Linux** | `.AppImage` (запускается без установки) | [**⬇ Скачать**](https://github.com/neskuchny/meetflow-converter/releases/download/v0.2.0/MeetFlow.Converter.Setup.0.2.0.exe.blockmap) |
 | 🐧 **Linux (Debian/Ubuntu)** | пакет `.deb` | [**⬇ Скачать**](https://github.com/neskuchny/meetflow-converter/releases/download/v0.2.0/meetflow-converter-desktop_0.2.0_amd64.deb) |
 > Все версии и прошлые сборки — на странице **[Releases](../../releases)**.
 
